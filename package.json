@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/maclover7/wmata#readme",
   "dependencies": {
+    "request": "^2.79.0",
     "yargs": "^6.5.0"
   }
 }
