@@ -1,0 +1,26 @@
+{
+  "name": "wmata",
+  "version": "0.0.1",
+  "description": "A CLI tool for getting data from WMATA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maclover7/wmata.git"
+  },
+  "keywords": [
+    "wmata",
+    "dc",
+    "metro",
+    "transit",
+    "trains"
+  ],
+  "author": "Jon Moss <me@jonathanmoss.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maclover7/wmata/issues"
+  },
+  "homepage": "https://github.com/maclover7/wmata#readme"
+}
