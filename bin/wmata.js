@@ -8,8 +8,8 @@ require('yargs')
     command: 'info [station name]',
     desc: 'Get next train and incident information',
     handler: function (argv) {
-      console.log('Requesting information about ' + argv.name + '!');
-      handler(argv.name);
+      console.log('Requesting information about ' + argv.name + ' station!');
+      handler(argv);
     }
   })
   .help()
