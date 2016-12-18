@@ -4,8 +4,10 @@
   "description": "A CLI tool for getting data from WMATA",
   "main": "index.js",
   "scripts": {
+    "wmata": "./bin/wmata.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": "./bin/wmata.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/maclover7/wmata.git"
