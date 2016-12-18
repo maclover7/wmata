@@ -1,6 +1,6 @@
 {
   "name": "wmata",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A CLI tool for getting data from WMATA",
   "main": "index.js",
   "scripts": {
