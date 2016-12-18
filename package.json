@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/maclover7/wmata/issues"
   },
-  "homepage": "https://github.com/maclover7/wmata#readme"
+  "homepage": "https://github.com/maclover7/wmata#readme",
+  "dependencies": {
+    "yargs": "^6.5.0"
+  }
 }
