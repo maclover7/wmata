@@ -27,7 +27,7 @@
   "homepage": "https://github.com/maclover7/wmata#readme",
   "dependencies": {
     "bluebird": "^3.4.6",
-    "cli-table2": "^0.2.0",
+    "cli-table3": "^0.5.0",
     "request": "^2.79.0",
     "yargs": "^6.5.0"
   }
